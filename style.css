@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Comfortaa:wght@300&family=Poppins:wght@300&family=Titillium+Web&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arvo', serif;
+font-family: 'Comfortaa', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+}
+.navbar-brand{
+    color: aquamarine;
+}
+.carousel-item img{
+    width:40%;
+    height:"690px";
+}
+.abt_img{
+    min-width: 100% ;
+    max-height: 280px;
+}
+.a{
+    font-family: 'Arvo', serif;
+font-family: 'Comfortaa', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+}
+
+/* MEDIA QUERIES */
+/* // X-Small devices (portrait phones, less than 576px) */
+/* // No media query for `xs` since this is the default in Bootstrap */
+
+/* // Small devices (landscape phones, 576px and up) */
